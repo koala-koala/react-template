@@ -1,7 +1,8 @@
 {
   "name": "react-template",
   "version": "1.0.0",
-  "description": "",
+  "author": "{{author}}",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +12,6 @@
     "url": "git+https://github.com/koala-koala/react-template.git"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/koala-koala/react-template/issues"
